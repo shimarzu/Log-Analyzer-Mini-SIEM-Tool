@@ -148,4 +148,4 @@ This tool is for **educational purposes only**. Only scan log files from systems
 
 ## Author
 
-Your Name — [GitHub Profile](https://github.com/YOUR_USERNAME)
+Zuhair Al Midani Shimar
