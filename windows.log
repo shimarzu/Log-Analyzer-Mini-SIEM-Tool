@@ -1,0 +1,23 @@
+2024-01-15 07:55:00 EventID=4624 LogonType=2 User=Administrator IP=192.168.1.10 Status=Success
+2024-01-15 08:00:01 EventID=4625 LogonType=3 User=Administrator IP=203.0.113.55 Status=Failure
+2024-01-15 08:00:03 EventID=4625 LogonType=3 User=Administrator IP=203.0.113.55 Status=Failure
+2024-01-15 08:00:05 EventID=4625 LogonType=3 User=Administrator IP=203.0.113.55 Status=Failure
+2024-01-15 08:00:07 EventID=4625 LogonType=3 User=Administrator IP=203.0.113.55 Status=Failure
+2024-01-15 08:00:09 EventID=4625 LogonType=3 User=Administrator IP=203.0.113.55 Status=Failure
+2024-01-15 08:00:11 EventID=4625 LogonType=3 User=Guest IP=203.0.113.55 Status=Failure
+2024-01-15 08:00:13 EventID=4625 LogonType=3 User=Guest IP=203.0.113.55 Status=Failure
+2024-01-15 08:01:00 EventID=4624 LogonType=2 User=john IP=192.168.1.20 Status=Success
+2024-01-15 08:30:00 EventID=4720 User=backdoor_user CreatedBy=Administrator IP=192.168.1.10
+2024-01-15 09:00:00 EventID=4672 User=john IP=192.168.1.20 Privileges=SeDebugPrivilege
+2024-01-15 09:15:00 EventID=4625 LogonType=3 User=Administrator IP=45.33.32.156 Status=Failure
+2024-01-15 09:15:02 EventID=4625 LogonType=3 User=Administrator IP=45.33.32.156 Status=Failure
+2024-01-15 09:15:04 EventID=4625 LogonType=3 User=Administrator IP=45.33.32.156 Status=Failure
+2024-01-15 10:00:00 EventID=4688 ProcessName=cmd.exe User=john ParentProcess=explorer.exe
+2024-01-15 10:01:00 EventID=4688 ProcessName=mimikatz.exe User=john ParentProcess=cmd.exe
+2024-01-15 10:05:00 EventID=4698 TaskName=UpdateService CreatedBy=john
+2024-01-15 11:00:00 EventID=4624 LogonType=10 User=Administrator IP=1.2.3.4 Status=Success
+2024-01-15 11:30:00 EventID=1102 LogCleared=True User=Administrator IP=192.168.1.10
+2024-01-15 12:00:00 EventID=4625 LogonType=3 User=Administrator IP=91.121.88.99 Status=Failure
+2024-01-15 12:00:02 EventID=4625 LogonType=3 User=Administrator IP=91.121.88.99 Status=Failure
+2024-01-15 14:00:00 EventID=4624 LogonType=2 User=alice IP=192.168.1.30 Status=Success
+2024-01-15 15:00:00 EventID=4625 LogonType=3 User=Administrator IP=198.51.100.77 Status=Failure
